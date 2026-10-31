@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
+    "versionCode":  2,
     "versionName":  "1.2",
     "applicationId":  "com.ijtc.rre",
-    "apkUrl":  "https://raw.githubusercontent.com/jakirfile/rreapk/main/app-debug-4b3679ded4cc975ec3f96a1e0d780c029b69824a6a7aaebb7d6cd6688df0f75b.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/jakirfile/rreapk/main/app-debug-2a7b205e6bdea91437fda657a69a6d0d3b0eb70a91acabf47131ad291c48d002.apk",
     "apkFileName":  "app-debug.apk",
-    "sha256":  "4b3679ded4cc975ec3f96a1e0d780c029b69824a6a7aaebb7d6cd6688df0f75b"
+    "sha256":  "2a7b205e6bdea91437fda657a69a6d0d3b0eb70a91acabf47131ad291c48d002"
 }
